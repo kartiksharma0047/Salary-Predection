@@ -4,7 +4,7 @@ from plotly import graph_objs as go
 import pandas as pd
 
 def show(data: pd.DataFrame):
-    st.title("Salary Predictor Dashboard")
+    st.title("Employee Dashboard")
     st.markdown("""  
         Analyze real employee salary data based on years of experience, industry, and other key factors.  
         Discover trends, compare roles, and make informed career or hiring decisions.
@@ -73,7 +73,7 @@ def show(data: pd.DataFrame):
                     color='grey'
                 ),
                 plot_bgcolor='white',
-                paper_bgcolor='white',
+                paper_bgcolor='black',
                 height=600
             )
 
