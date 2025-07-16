@@ -3,3 +3,5 @@ pandas
 numpy
 plotly
 matplotlib
+python-dotenv
+google-generativeai
