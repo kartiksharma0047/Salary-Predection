@@ -4,6 +4,7 @@ import pandas as pd
 # Load your data ONCE — reusable
 data = pd.read_csv("./Employee_Salary_Data.csv")
 data["YearsExperience"] = data["YearsExperience"].round(1)
+data["Salary (in INR)"] = pd.to_numeric(data["Salary (in INR)"], errors="coerce")
 data["Salary (in INR)"] = data["Salary (in INR)"].round(1)
 data["YearsExperience_Display"] = data["YearsExperience"].map(
     lambda x: f"{x:.1f}".rstrip('0').rstrip('.') if '.' in str(x) else str(x)

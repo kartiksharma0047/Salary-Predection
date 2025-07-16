@@ -1,52 +1,53 @@
 Job Title,Industry,Education Level,Location,Employment Type,YearsExperience,Salary (in INR),Company Size,Remote
-Cloud Engineer,SaaS,Bachelors,Hyderabad,Full-time,5.2,1462128,Mid-size,Yes
-Human Resource,FinTech,PhD,Gurgaon,Internship,4.4,734953,Large,No
-Full Stack Developer,IT Services,Bachelors,Pune,Internship,10.8,1073699,Mid-size,Yes
-Machine Learning Engineer,IT Services,Secondary Education,Gurgaon,Part-time,9.9,2537317,Large,No
-QA Engineer,IT Services,Bachelors,Jaipur,Internship,5.5,641807,MNC,Yes
-QA Engineer,IT Services,Secondary Education,Mumbai,Full-time,10.0,888722,Small,No
-Machine Learning Engineer,FinTech,Masters,Hyderabad,Part-time,6.9,2875288,Startup,Yes
-DevOps Engineer,E-commerce,Secondary Education,Mumbai,Internship,3.0,1420684,Mid-size,No
-QA Engineer,IT Services,Masters,Bengaluru,Part-time,6.8,503254,Startup,No
-Business Analyst,SaaS,Masters,Jaipur,Full-time,5.8,1265701,Startup,Yes
-DevOps Engineer,IT Services,Bachelors,Gurgaon,Internship,10.5,719318,Small,Yes
-Graphic Designer,E-commerce,PhD,Delhi,Contract,4.3,610109,Startup,No
-Graphic Designer,IT Services,Bachelors,Hyderabad,Contract,9.1,340982,Small,Yes
-QA Engineer,FinTech,Bachelors,Mumbai,Contract,11.4,748521,Startup,Yes
-Cloud Engineer,Healthcare,Secondary Education,Chennai,Full-time,10.8,1173222,Startup,Yes
-DevOps Engineer,E-commerce,PhD,Noida,Part-time,7.9,1190237,Small,Yes
-DevOps Engineer,FinTech,Bachelors,Bengaluru,Full-time,10.9,1697180,Large,Yes
-Machine Learning Engineer,FinTech,Secondary Education,Pune,Internship,7.9,1812049,MNC,Yes
-Data Scientist,Healthcare,Bachelors,Bengaluru,Contract,2.3,2137969,MNC,Yes
-Data Scientist,Healthcare,Masters,Jaipur,Part-time,9.8,1971690,MNC,Yes
-Data Scientist,Healthcare,Masters,Jaipur,Part-time,9.8,2001690,MNC,Yes
-Machine Learning Engineer,FinTech,Bachelors,Hyderabad,Internship,4.7,1683785,Startup,No
-QA Engineer,FinTech,Bachelors,Noida,Contract,9.1,645582,Large,Yes
-Data Scientist,E-commerce,Bachelors,Mumbai,Full-time,11.9,2851611,Mid-size,No
-Data Scientist,Healthcare,Masters,Pune,Contract,8.3,841189,Large,No
-Business Analyst,Healthcare,Secondary Education,Hyderabad,Contract,10.7,882837,Mid-size,Yes
-Cloud Engineer,Healthcare,Bachelors,Mumbai,Internship,7.4,1350624,Large,No
-Data Analyst,IT Services,Secondary Education,Chennai,Full-time,6.1,783734,Small,Yes
-Machine Learning Engineer,FinTech,Bachelors,Gurgaon,Contract,11.6,841126,Startup,No
-Cloud Engineer,E-commerce,Secondary Education,Mumbai,Full-time,8.9,2171367,Small,No
-Human Resource,IT Services,Secondary Education,Mumbai,Internship,8.1,308337,Large,No
-Full Stack Developer,E-commerce,Secondary Education,Kolkata,Contract,7.3,994669,Small,No
-DevOps Engineer,FinTech,Bachelors,Jaipur,Part-time,2.7,1656435,MNC,Yes
-Data Scientist,SaaS,Masters,Delhi,Full-time,10.7,2837156,Mid-size,No
-Graphic Designer,FinTech,Secondary Education,Bengaluru,Contract,5.4,668260,Large,No
-Data Analyst,FinTech,PhD,Bengaluru,Internship,8.9,1087576,Large,No
-Full Stack Developer,IT Services,Bachelors,Hyderabad,Full-time,6.2,1900637,Startup,No
-Graphic Designer,IT Services,Masters,Gurgaon,Full-time,5.4,659112,MNC,Yes
-QA Engineer,SaaS,Masters,Bengaluru,Internship,9.7,679069,MNC,Yes
-Machine Learning Engineer,IT Services,Masters,Jaipur,Part-time,3.0,2078006,Small,Yes
-Human Resource,Healthcare,Secondary Education,Delhi,Internship,2.5,357660,Mid-size,Yes
-Data Analyst,E-commerce,Bachelors,Jaipur,Full-time,7.3,931740,Startup,Yes
-Graphic Designer,E-commerce,Masters,Bengaluru,Internship,5.4,379012,Mid-size,No
-QA Engineer,SaaS,PhD,Jaipur,Contract,9.9,453758,Small,Yes
-Full Stack Developer,IT Services,Secondary Education,Gurgaon,Part-time,9.9,759811,Startup,No
-Full Stack Developer,FinTech,Secondary Education,Delhi,Part-time,7.6,1698095,MNC,Yes
-QA Engineer,E-commerce,Bachelors,Kolkata,Part-time,6.7,984172,Large,No
-QA Engineer,E-commerce,PhD,Jaipur,Full-time,9.9,725092,Large,Yes
-Cloud Engineer,SaaS,Masters,Delhi,Contract,3.8,2530003,Mid-size,Yes
-Machine Learning Engineer,SaaS,Masters,Delhi,Internship,4.5,2141634,Large,Yes
-Cloud Engineer,Healthcare,Secondary Education,Jaipur,Contract,9.3,1837799,MNC,Yes
+Cloud Engineer,SaaS,Bachelors,Hyderabad,Full-time,5.2,1462128.0,Mid-size,Yes
+Human Resource,FinTech,PhD,Gurgaon,Internship,4.4,734953.0,Large,No
+Full Stack Developer,IT Services,Bachelors,Pune,Internship,10.8,1073699.0,Mid-size,Yes
+Machine Learning Engineer,IT Services,Secondary Education,Gurgaon,Part-time,9.9,2537317.0,Large,No
+QA Engineer,IT Services,Bachelors,Jaipur,Internship,5.5,641807.0,MNC,Yes
+QA Engineer,IT Services,Secondary Education,Mumbai,Full-time,10.0,888722.0,Small,No
+Machine Learning Engineer,FinTech,Masters,Hyderabad,Part-time,6.9,2875288.0,Startup,Yes
+DevOps Engineer,E-commerce,Secondary Education,Mumbai,Internship,3.0,1420684.0,Mid-size,No
+QA Engineer,IT Services,Masters,Bengaluru,Part-time,6.8,503254.0,Startup,No
+Business Analyst,SaaS,Masters,Jaipur,Full-time,5.8,1265701.0,Startup,Yes
+DevOps Engineer,IT Services,Bachelors,Gurgaon,Internship,10.5,719318.0,Small,Yes
+Graphic Designer,E-commerce,PhD,Delhi,Contract,4.3,610109.0,Startup,No
+Graphic Designer,IT Services,Bachelors,Hyderabad,Contract,9.1,340982.0,Small,Yes
+QA Engineer,FinTech,Bachelors,Mumbai,Contract,11.4,748521.0,Startup,Yes
+Cloud Engineer,Healthcare,Secondary Education,Chennai,Full-time,10.8,1173222.0,Startup,Yes
+DevOps Engineer,E-commerce,PhD,Noida,Part-time,7.9,1190237.0,Small,Yes
+DevOps Engineer,FinTech,Bachelors,Bengaluru,Full-time,10.9,1697180.0,Large,Yes
+Machine Learning Engineer,FinTech,Secondary Education,Pune,Internship,7.9,1812049.0,MNC,Yes
+Data Scientist,Healthcare,Bachelors,Bengaluru,Contract,2.3,2137969.0,MNC,Yes
+Data Scientist,Healthcare,Masters,Jaipur,Part-time,9.8,1971690.0,MNC,Yes
+Data Scientist,Healthcare,Masters,Jaipur,Part-time,9.8,2001690.0,MNC,Yes
+Machine Learning Engineer,FinTech,Bachelors,Hyderabad,Internship,4.7,1683785.0,Startup,No
+QA Engineer,FinTech,Bachelors,Noida,Contract,9.1,645582.0,Large,Yes
+Data Scientist,E-commerce,Bachelors,Mumbai,Full-time,11.9,2851611.0,Mid-size,No
+Data Scientist,Healthcare,Masters,Pune,Contract,8.3,841189.0,Large,No
+Business Analyst,Healthcare,Secondary Education,Hyderabad,Contract,10.7,882837.0,Mid-size,Yes
+Cloud Engineer,Healthcare,Bachelors,Mumbai,Internship,7.4,1350624.0,Large,No
+Data Analyst,IT Services,Secondary Education,Chennai,Full-time,6.1,783734.0,Small,Yes
+Machine Learning Engineer,FinTech,Bachelors,Gurgaon,Contract,11.6,841126.0,Startup,No
+Cloud Engineer,E-commerce,Secondary Education,Mumbai,Full-time,8.9,2171367.0,Small,No
+Human Resource,IT Services,Secondary Education,Mumbai,Internship,8.1,308337.0,Large,No
+Full Stack Developer,E-commerce,Secondary Education,Kolkata,Contract,7.3,994669.0,Small,No
+DevOps Engineer,FinTech,Bachelors,Jaipur,Part-time,2.7,1656435.0,MNC,Yes
+Data Scientist,SaaS,Masters,Delhi,Full-time,10.7,2837156.0,Mid-size,No
+Graphic Designer,FinTech,Secondary Education,Bengaluru,Contract,5.4,668260.0,Large,No
+Data Analyst,FinTech,PhD,Bengaluru,Internship,8.9,1087576.0,Large,No
+Full Stack Developer,IT Services,Bachelors,Hyderabad,Full-time,6.2,1900637.0,Startup,No
+Graphic Designer,IT Services,Masters,Gurgaon,Full-time,5.4,659112.0,MNC,Yes
+QA Engineer,SaaS,Masters,Bengaluru,Internship,9.7,679069.0,MNC,Yes
+Machine Learning Engineer,IT Services,Masters,Jaipur,Part-time,3.0,2078006.0,Small,Yes
+Human Resource,Healthcare,Secondary Education,Delhi,Internship,2.5,357660.0,Mid-size,Yes
+Data Analyst,E-commerce,Bachelors,Jaipur,Full-time,7.3,931740.0,Startup,Yes
+Graphic Designer,E-commerce,Masters,Bengaluru,Internship,5.4,379012.0,Mid-size,No
+QA Engineer,SaaS,PhD,Jaipur,Contract,9.9,453758.0,Small,Yes
+Full Stack Developer,IT Services,Secondary Education,Gurgaon,Part-time,9.9,759811.0,Startup,No
+Full Stack Developer,FinTech,Secondary Education,Delhi,Part-time,7.6,1698095.0,MNC,Yes
+QA Engineer,E-commerce,Bachelors,Kolkata,Part-time,6.7,984172.0,Large,No
+QA Engineer,E-commerce,PhD,Jaipur,Full-time,9.9,725092.0,Large,Yes
+Cloud Engineer,SaaS,Masters,Delhi,Contract,3.8,2530003.0,Mid-size,Yes
+Machine Learning Engineer,SaaS,Masters,Delhi,Internship,4.5,2141634.0,Large,Yes
+Cloud Engineer,Healthcare,Secondary Education,Jaipur,Contract,9.3,1837799.0,MNC,Yes
+SDE,Product Based Companies,Bachelors,Jaipur,Full-time,3.0,3000000.0,MNC,No
