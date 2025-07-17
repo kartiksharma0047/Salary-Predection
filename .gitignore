@@ -1,7 +1,12 @@
-venv
+# Ignore Python virtual environments
+venv/
+
 # Ignore Python cache files
 __pycache__/
 *.py[cod]
 
+# Ignore environment variables file
 .env
+
+# Ignore SQLite cache file
 salary_cache.db
