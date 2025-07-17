@@ -7,6 +7,3 @@ __pycache__/
 
 # Ignore environment variables file
 .env
-
-# Ignore SQLite cache file
-salary_cache.db
